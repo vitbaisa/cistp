@@ -1,0 +1,399 @@
+<svg width="4800" height="4800">
+  <line x1="0" y1="231" x2="48" y2="231" stroke="green" stroke-width="2" />
+  <line x1="0" y1="0" x2="4752" y2="0" stroke="green" stroke-width="2" />
+  <line x1="0" y1="231" x2="0" y2="0" stroke="red" stroke-width="2" />
+  <text x="4800" y="0" fill="black">&lt;-j</text>
+  <line x1="48" y1="414" x2="96" y2="414" stroke="green" stroke-width="2" />
+  <line x1="48" y1="48" x2="4752" y2="48" stroke="green" stroke-width="2" />
+  <line x1="48" y1="414" x2="48" y2="48" stroke="red" stroke-width="2" />
+  <text x="4800" y="48" fill="black">related-j</text>
+  <line x1="96" y1="732" x2="144" y2="732" stroke="green" stroke-width="2" />
+  <line x1="96" y1="96" x2="4752" y2="96" stroke="green" stroke-width="2" />
+  <line x1="96" y1="732" x2="96" y2="96" stroke="red" stroke-width="2" />
+  <text x="4800" y="96" fill="black">helpful-j</text>
+  <line x1="144" y1="1320" x2="192" y2="1320" stroke="green" stroke-width="2" />
+  <line x1="144" y1="144" x2="4752" y2="144" stroke="green" stroke-width="2" />
+  <line x1="144" y1="1320" x2="144" y2="144" stroke="red" stroke-width="2" />
+  <text x="4800" y="144" fill="black">worth-j</text>
+  <line x1="192" y1="2448" x2="240" y2="2448" stroke="green" stroke-width="2" />
+  <line x1="192" y1="192" x2="4752" y2="192" stroke="green" stroke-width="2" />
+  <line x1="192" y1="2448" x2="192" y2="192" stroke="red" stroke-width="2" />
+  <text x="4800" y="192" fill="black">favorite-j</text>
+  <line x1="240" y1="4511" x2="4464" y2="4511" stroke="green" stroke-width="2" />
+  <line x1="240" y1="385" x2="576" y2="385" stroke="green" stroke-width="2" />
+  <line x1="240" y1="4511" x2="240" y2="385" stroke="red" stroke-width="2" />
+  <line x1="576" y1="530" x2="624" y2="530" stroke="green" stroke-width="2" />
+  <line x1="576" y1="240" x2="4752" y2="240" stroke="green" stroke-width="2" />
+  <line x1="576" y1="530" x2="576" y2="240" stroke="red" stroke-width="2" />
+  <text x="4800" y="240" fill="black">interested-j</text>
+  <line x1="624" y1="772" x2="672" y2="772" stroke="green" stroke-width="2" />
+  <line x1="624" y1="288" x2="4752" y2="288" stroke="green" stroke-width="2" />
+  <line x1="624" y1="772" x2="624" y2="288" stroke="red" stroke-width="2" />
+  <text x="4800" y="288" fill="black">aware-j</text>
+  <line x1="672" y1="1208" x2="720" y2="1208" stroke="green" stroke-width="2" />
+  <line x1="672" y1="336" x2="4752" y2="336" stroke="green" stroke-width="2" />
+  <line x1="672" y1="1208" x2="672" y2="336" stroke="red" stroke-width="2" />
+  <text x="4800" y="336" fill="black">numerous-j</text>
+  <line x1="720" y1="2033" x2="768" y2="2033" stroke="green" stroke-width="2" />
+  <line x1="720" y1="384" x2="4752" y2="384" stroke="green" stroke-width="2" />
+  <line x1="720" y1="2033" x2="720" y2="384" stroke="red" stroke-width="2" />
+  <text x="4800" y="384" fill="black">comprehensive-j</text>
+  <line x1="768" y1="3634" x2="816" y2="3634" stroke="green" stroke-width="2" />
+  <line x1="768" y1="432" x2="4752" y2="432" stroke="green" stroke-width="2" />
+  <line x1="768" y1="3634" x2="768" y2="432" stroke="red" stroke-width="2" />
+  <text x="4800" y="432" fill="black">detailed-j</text>
+  <line x1="816" y1="4392" x2="4704" y2="4392" stroke="green" stroke-width="2" />
+  <line x1="816" y1="2876" x2="912" y2="2876" stroke="green" stroke-width="2" />
+  <line x1="816" y1="4392" x2="816" y2="2876" stroke="red" stroke-width="2" />
+  <line x1="912" y1="4296" x2="4704" y2="4296" stroke="green" stroke-width="2" />
+  <line x1="912" y1="1457" x2="1008" y2="1457" stroke="green" stroke-width="2" />
+  <line x1="912" y1="4296" x2="912" y2="1457" stroke="red" stroke-width="2" />
+  <line x1="1008" y1="2434" x2="1056" y2="2434" stroke="green" stroke-width="2" />
+  <line x1="1008" y1="480" x2="4752" y2="480" stroke="green" stroke-width="2" />
+  <line x1="1008" y1="2434" x2="1008" y2="480" stroke="red" stroke-width="2" />
+  <text x="4800" y="480" fill="black">fair-j</text>
+  <line x1="1056" y1="3898" x2="4368" y2="3898" stroke="green" stroke-width="2" />
+  <line x1="1056" y1="970" x2="1488" y2="970" stroke="green" stroke-width="2" />
+  <line x1="1056" y1="3898" x2="1056" y2="970" stroke="red" stroke-width="2" />
+  <line x1="1488" y1="1412" x2="1536" y2="1412" stroke="green" stroke-width="2" />
+  <line x1="1488" y1="528" x2="4752" y2="528" stroke="green" stroke-width="2" />
+  <line x1="1488" y1="1412" x2="1488" y2="528" stroke="red" stroke-width="2" />
+  <text x="4800" y="528" fill="black">extra-j</text>
+  <line x1="1536" y1="2248" x2="1584" y2="2248" stroke="green" stroke-width="2" />
+  <line x1="1536" y1="576" x2="4752" y2="576" stroke="green" stroke-width="2" />
+  <line x1="1536" y1="2248" x2="1536" y2="576" stroke="red" stroke-width="2" />
+  <text x="4800" y="576" fill="black">practical-j</text>
+  <line x1="1584" y1="3768" x2="4704" y2="3768" stroke="green" stroke-width="2" />
+  <line x1="1584" y1="728" x2="1680" y2="728" stroke="green" stroke-width="2" />
+  <line x1="1584" y1="3768" x2="1584" y2="728" stroke="red" stroke-width="2" />
+  <line x1="1680" y1="833" x2="1728" y2="833" stroke="green" stroke-width="2" />
+  <line x1="1680" y1="624" x2="4752" y2="624" stroke="green" stroke-width="2" />
+  <line x1="1680" y1="833" x2="1680" y2="624" stroke="red" stroke-width="2" />
+  <text x="4800" y="624" fill="black">overall-j</text>
+  <line x1="1728" y1="994" x2="1776" y2="994" stroke="green" stroke-width="2" />
+  <line x1="1728" y1="672" x2="4752" y2="672" stroke="green" stroke-width="2" />
+  <line x1="1728" y1="994" x2="1728" y2="672" stroke="red" stroke-width="2" />
+  <text x="4800" y="672" fill="black">relevant-j</text>
+  <line x1="1776" y1="1269" x2="1824" y2="1269" stroke="green" stroke-width="2" />
+  <line x1="1776" y1="720" x2="4752" y2="720" stroke="green" stroke-width="2" />
+  <line x1="1776" y1="1269" x2="1776" y2="720" stroke="red" stroke-width="2" />
+  <text x="4800" y="720" fill="black">proper-j</text>
+  <line x1="1824" y1="1770" x2="1872" y2="1770" stroke="green" stroke-width="2" />
+  <line x1="1824" y1="768" x2="4752" y2="768" stroke="green" stroke-width="2" />
+  <line x1="1824" y1="1770" x2="1824" y2="768" stroke="red" stroke-width="2" />
+  <text x="4800" y="768" fill="black">long-term-j</text>
+  <line x1="1872" y1="2724" x2="1920" y2="2724" stroke="green" stroke-width="2" />
+  <line x1="1872" y1="816" x2="4752" y2="816" stroke="green" stroke-width="2" />
+  <line x1="1872" y1="2724" x2="1872" y2="816" stroke="red" stroke-width="2" />
+  <text x="4800" y="816" fill="black">actual-j</text>
+  <line x1="1920" y1="3672" x2="4704" y2="3672" stroke="green" stroke-width="2" />
+  <line x1="1920" y1="1776" x2="2016" y2="1776" stroke="green" stroke-width="2" />
+  <line x1="1920" y1="3672" x2="1920" y2="1776" stroke="red" stroke-width="2" />
+  <line x1="2016" y1="2639" x2="3744" y2="2639" stroke="green" stroke-width="2" />
+  <line x1="2016" y1="912" x2="3072" y2="912" stroke="green" stroke-width="2" />
+  <line x1="2016" y1="2639" x2="2016" y2="912" stroke="red" stroke-width="2" />
+  <line x1="3072" y1="960" x2="3120" y2="960" stroke="green" stroke-width="2" />
+  <line x1="3072" y1="864" x2="4752" y2="864" stroke="green" stroke-width="2" />
+  <line x1="3072" y1="960" x2="3072" y2="864" stroke="red" stroke-width="2" />
+  <text x="4800" y="864" fill="black">senior-j</text>
+  <line x1="3120" y1="1008" x2="3168" y2="1008" stroke="green" stroke-width="2" />
+  <line x1="3120" y1="912" x2="4752" y2="912" stroke="green" stroke-width="2" />
+  <line x1="3120" y1="1008" x2="3120" y2="912" stroke="red" stroke-width="2" />
+  <text x="4800" y="912" fill="black">broad-j</text>
+  <line x1="3168" y1="1056" x2="3216" y2="1056" stroke="green" stroke-width="2" />
+  <line x1="3168" y1="960" x2="4752" y2="960" stroke="green" stroke-width="2" />
+  <line x1="3168" y1="1056" x2="3168" y2="960" stroke="red" stroke-width="2" />
+  <text x="4800" y="960" fill="black">independent-j</text>
+  <line x1="3216" y1="1104" x2="3264" y2="1104" stroke="green" stroke-width="2" />
+  <line x1="3216" y1="1008" x2="4752" y2="1008" stroke="green" stroke-width="2" />
+  <line x1="3216" y1="1104" x2="3216" y2="1008" stroke="red" stroke-width="2" />
+  <text x="4800" y="1008" fill="black">advanced-j</text>
+  <line x1="3264" y1="1152" x2="3312" y2="1152" stroke="green" stroke-width="2" />
+  <line x1="3264" y1="1056" x2="4752" y2="1056" stroke="green" stroke-width="2" />
+  <line x1="3264" y1="1152" x2="3264" y2="1056" stroke="red" stroke-width="2" />
+  <text x="4800" y="1056" fill="black">limited-j</text>
+  <line x1="3312" y1="1200" x2="3360" y2="1200" stroke="green" stroke-width="2" />
+  <line x1="3312" y1="1104" x2="4752" y2="1104" stroke="green" stroke-width="2" />
+  <line x1="3312" y1="1200" x2="3312" y2="1104" stroke="red" stroke-width="2" />
+  <text x="4800" y="1104" fill="black">ancient-j</text>
+  <line x1="3360" y1="1248" x2="3408" y2="1248" stroke="green" stroke-width="2" />
+  <line x1="3360" y1="1152" x2="4752" y2="1152" stroke="green" stroke-width="2" />
+  <line x1="3360" y1="1248" x2="3360" y2="1152" stroke="red" stroke-width="2" />
+  <text x="4800" y="1152" fill="black">annual-j</text>
+  <line x1="3408" y1="1296" x2="3456" y2="1296" stroke="green" stroke-width="2" />
+  <line x1="3408" y1="1200" x2="4752" y2="1200" stroke="green" stroke-width="2" />
+  <line x1="3408" y1="1296" x2="3408" y2="1200" stroke="red" stroke-width="2" />
+  <text x="4800" y="1200" fill="black">British-j</text>
+  <line x1="3456" y1="1344" x2="3504" y2="1344" stroke="green" stroke-width="2" />
+  <line x1="3456" y1="1248" x2="4752" y2="1248" stroke="green" stroke-width="2" />
+  <line x1="3456" y1="1344" x2="3456" y2="1248" stroke="red" stroke-width="2" />
+  <text x="4800" y="1248" fill="black">German-j</text>
+  <line x1="3504" y1="1392" x2="3552" y2="1392" stroke="green" stroke-width="2" />
+  <line x1="3504" y1="1296" x2="4752" y2="1296" stroke="green" stroke-width="2" />
+  <line x1="3504" y1="1392" x2="3504" y2="1296" stroke="red" stroke-width="2" />
+  <text x="4800" y="1296" fill="black">French-j</text>
+  <line x1="3552" y1="1440" x2="3600" y2="1440" stroke="green" stroke-width="2" />
+  <line x1="3552" y1="1344" x2="4752" y2="1344" stroke="green" stroke-width="2" />
+  <line x1="3552" y1="1440" x2="3552" y2="1344" stroke="red" stroke-width="2" />
+  <text x="4800" y="1344" fill="black">Chinese-j</text>
+  <line x1="3600" y1="1488" x2="3648" y2="1488" stroke="green" stroke-width="2" />
+  <line x1="3600" y1="1392" x2="4752" y2="1392" stroke="green" stroke-width="2" />
+  <line x1="3600" y1="1488" x2="3600" y2="1392" stroke="red" stroke-width="2" />
+  <text x="4800" y="1392" fill="black">female-j</text>
+  <line x1="3648" y1="1536" x2="3696" y2="1536" stroke="green" stroke-width="2" />
+  <line x1="3648" y1="1440" x2="4752" y2="1440" stroke="green" stroke-width="2" />
+  <line x1="3648" y1="1536" x2="3648" y2="1440" stroke="red" stroke-width="2" />
+  <text x="4800" y="1440" fill="black">regular-j</text>
+  <line x1="3696" y1="1584" x2="3744" y2="1584" stroke="green" stroke-width="2" />
+  <line x1="3696" y1="1488" x2="4752" y2="1488" stroke="green" stroke-width="2" />
+  <line x1="3696" y1="1584" x2="3696" y2="1488" stroke="red" stroke-width="2" />
+  <text x="4800" y="1488" fill="black">technical-j</text>
+  <line x1="3744" y1="1632" x2="3792" y2="1632" stroke="green" stroke-width="2" />
+  <line x1="3744" y1="1536" x2="4752" y2="1536" stroke="green" stroke-width="2" />
+  <line x1="3744" y1="1632" x2="3744" y2="1536" stroke="red" stroke-width="2" />
+  <text x="4800" y="1536" fill="black">internal-j</text>
+  <line x1="3792" y1="1681" x2="3840" y2="1681" stroke="green" stroke-width="2" />
+  <line x1="3792" y1="1584" x2="4752" y2="1584" stroke="green" stroke-width="2" />
+  <line x1="3792" y1="1681" x2="3792" y2="1584" stroke="red" stroke-width="2" />
+  <text x="4800" y="1584" fill="black">separate-j</text>
+  <line x1="3840" y1="1731" x2="3888" y2="1731" stroke="green" stroke-width="2" />
+  <line x1="3840" y1="1632" x2="4752" y2="1632" stroke="green" stroke-width="2" />
+  <line x1="3840" y1="1731" x2="3840" y2="1632" stroke="red" stroke-width="2" />
+  <text x="4800" y="1632" fill="black">creative-j</text>
+  <line x1="3888" y1="1783" x2="3936" y2="1783" stroke="green" stroke-width="2" />
+  <line x1="3888" y1="1680" x2="4752" y2="1680" stroke="green" stroke-width="2" />
+  <line x1="3888" y1="1783" x2="3888" y2="1680" stroke="red" stroke-width="2" />
+  <text x="4800" y="1680" fill="black">negative-j</text>
+  <line x1="3936" y1="1839" x2="3984" y2="1839" stroke="green" stroke-width="2" />
+  <line x1="3936" y1="1728" x2="4752" y2="1728" stroke="green" stroke-width="2" />
+  <line x1="3936" y1="1839" x2="3936" y2="1728" stroke="red" stroke-width="2" />
+  <text x="4800" y="1728" fill="black">dry-j</text>
+  <line x1="3984" y1="1903" x2="4032" y2="1903" stroke="green" stroke-width="2" />
+  <line x1="3984" y1="1776" x2="4752" y2="1776" stroke="green" stroke-width="2" />
+  <line x1="3984" y1="1903" x2="3984" y2="1776" stroke="red" stroke-width="2" />
+  <text x="4800" y="1776" fill="black">healthy-j</text>
+  <line x1="4032" y1="1982" x2="4080" y2="1982" stroke="green" stroke-width="2" />
+  <line x1="4032" y1="1824" x2="4752" y2="1824" stroke="green" stroke-width="2" />
+  <line x1="4032" y1="1982" x2="4032" y2="1824" stroke="red" stroke-width="2" />
+  <text x="4800" y="1824" fill="black">cold-j</text>
+  <line x1="4080" y1="2093" x2="4128" y2="2093" stroke="green" stroke-width="2" />
+  <line x1="4080" y1="1872" x2="4752" y2="1872" stroke="green" stroke-width="2" />
+  <line x1="4080" y1="2093" x2="4080" y2="1872" stroke="red" stroke-width="2" />
+  <text x="4800" y="1872" fill="black">serious-j</text>
+  <line x1="4128" y1="2267" x2="4176" y2="2267" stroke="green" stroke-width="2" />
+  <line x1="4128" y1="1920" x2="4752" y2="1920" stroke="green" stroke-width="2" />
+  <line x1="4128" y1="2267" x2="4128" y2="1920" stroke="red" stroke-width="2" />
+  <text x="4800" y="1920" fill="black">complex-j</text>
+  <line x1="4176" y1="2520" x2="4704" y2="2520" stroke="green" stroke-width="2" />
+  <line x1="4176" y1="2015" x2="4272" y2="2015" stroke="green" stroke-width="2" />
+  <line x1="4176" y1="2520" x2="4176" y2="2015" stroke="red" stroke-width="2" />
+  <line x1="4272" y1="2063" x2="4320" y2="2063" stroke="green" stroke-width="2" />
+  <line x1="4272" y1="1968" x2="4752" y2="1968" stroke="green" stroke-width="2" />
+  <line x1="4272" y1="2063" x2="4272" y2="1968" stroke="red" stroke-width="2" />
+  <text x="4800" y="1968" fill="black">warm-j</text>
+  <line x1="4320" y1="2111" x2="4368" y2="2111" stroke="green" stroke-width="2" />
+  <line x1="4320" y1="2016" x2="4752" y2="2016" stroke="green" stroke-width="2" />
+  <line x1="4320" y1="2111" x2="4320" y2="2016" stroke="red" stroke-width="2" />
+  <text x="4800" y="2016" fill="black">soft-j</text>
+  <line x1="4368" y1="2159" x2="4416" y2="2159" stroke="green" stroke-width="2" />
+  <line x1="4368" y1="2064" x2="4752" y2="2064" stroke="green" stroke-width="2" />
+  <line x1="4368" y1="2159" x2="4368" y2="2064" stroke="red" stroke-width="2" />
+  <text x="4800" y="2064" fill="black">fast-j</text>
+  <line x1="4416" y1="2207" x2="4464" y2="2207" stroke="green" stroke-width="2" />
+  <line x1="4416" y1="2112" x2="4752" y2="2112" stroke="green" stroke-width="2" />
+  <line x1="4416" y1="2207" x2="4416" y2="2112" stroke="red" stroke-width="2" />
+  <text x="4800" y="2112" fill="black">solid-j</text>
+  <line x1="4464" y1="2254" x2="4512" y2="2254" stroke="green" stroke-width="2" />
+  <line x1="4464" y1="2160" x2="4752" y2="2160" stroke="green" stroke-width="2" />
+  <line x1="4464" y1="2254" x2="4464" y2="2160" stroke="red" stroke-width="2" />
+  <text x="4800" y="2160" fill="black">live-j</text>
+  <line x1="4512" y1="2301" x2="4560" y2="2301" stroke="green" stroke-width="2" />
+  <line x1="4512" y1="2208" x2="4752" y2="2208" stroke="green" stroke-width="2" />
+  <line x1="4512" y1="2301" x2="4512" y2="2208" stroke="red" stroke-width="2" />
+  <text x="4800" y="2208" fill="black">fresh-j</text>
+  <line x1="4560" y1="2346" x2="4608" y2="2346" stroke="green" stroke-width="2" />
+  <line x1="4560" y1="2256" x2="4752" y2="2256" stroke="green" stroke-width="2" />
+  <line x1="4560" y1="2346" x2="4560" y2="2256" stroke="red" stroke-width="2" />
+  <text x="4800" y="2256" fill="black">blue-j</text>
+  <line x1="4608" y1="2388" x2="4656" y2="2388" stroke="green" stroke-width="2" />
+  <line x1="4608" y1="2304" x2="4752" y2="2304" stroke="green" stroke-width="2" />
+  <line x1="4608" y1="2388" x2="4608" y2="2304" stroke="red" stroke-width="2" />
+  <text x="4800" y="2304" fill="black">red-j</text>
+  <line x1="4656" y1="2424" x2="4704" y2="2424" stroke="green" stroke-width="2" />
+  <line x1="4656" y1="2352" x2="4752" y2="2352" stroke="green" stroke-width="2" />
+  <line x1="4656" y1="2424" x2="4656" y2="2352" stroke="red" stroke-width="2" />
+  <text x="4800" y="2352" fill="black">dark-j</text>
+  <line x1="4704" y1="2448" x2="4752" y2="2448" stroke="green" stroke-width="2" />
+  <line x1="4704" y1="2400" x2="4752" y2="2400" stroke="green" stroke-width="2" />
+  <line x1="4704" y1="2448" x2="4704" y2="2400" stroke="red" stroke-width="2" />
+  <text x="4800" y="2400" fill="black">heavy-j</text>
+  <text x="4800" y="2448" fill="black">green-j</text>
+  <line x1="4704" y1="2544" x2="4752" y2="2544" stroke="green" stroke-width="2" />
+  <line x1="4704" y1="2496" x2="4752" y2="2496" stroke="green" stroke-width="2" />
+  <line x1="4704" y1="2544" x2="4704" y2="2496" stroke="red" stroke-width="2" />
+  <text x="4800" y="2496" fill="black">powerful-j</text>
+  <text x="4800" y="2544" fill="black">rich-j</text>
+  <line x1="3744" y1="2687" x2="3792" y2="2687" stroke="green" stroke-width="2" />
+  <line x1="3744" y1="2592" x2="4752" y2="2592" stroke="green" stroke-width="2" />
+  <line x1="3744" y1="2687" x2="3744" y2="2592" stroke="red" stroke-width="2" />
+  <text x="4800" y="2592" fill="black">federal-j</text>
+  <line x1="3792" y1="2735" x2="3840" y2="2735" stroke="green" stroke-width="2" />
+  <line x1="3792" y1="2640" x2="4752" y2="2640" stroke="green" stroke-width="2" />
+  <line x1="3792" y1="2735" x2="3792" y2="2640" stroke="red" stroke-width="2" />
+  <text x="4800" y="2640" fill="black">civil-j</text>
+  <line x1="3840" y1="2783" x2="3888" y2="2783" stroke="green" stroke-width="2" />
+  <line x1="3840" y1="2688" x2="4752" y2="2688" stroke="green" stroke-width="2" />
+  <line x1="3840" y1="2783" x2="3840" y2="2688" stroke="red" stroke-width="2" />
+  <text x="4800" y="2688" fill="black">nuclear-j</text>
+  <line x1="3888" y1="2831" x2="3936" y2="2831" stroke="green" stroke-width="2" />
+  <line x1="3888" y1="2736" x2="4752" y2="2736" stroke="green" stroke-width="2" />
+  <line x1="3888" y1="2831" x2="3888" y2="2736" stroke="red" stroke-width="2" />
+  <text x="4800" y="2736" fill="black">domestic-j</text>
+  <line x1="3936" y1="2879" x2="3984" y2="2879" stroke="green" stroke-width="2" />
+  <line x1="3936" y1="2784" x2="4752" y2="2784" stroke="green" stroke-width="2" />
+  <line x1="3936" y1="2879" x2="3936" y2="2784" stroke="red" stroke-width="2" />
+  <text x="4800" y="2784" fill="black">regional-j</text>
+  <line x1="3984" y1="2927" x2="4032" y2="2927" stroke="green" stroke-width="2" />
+  <line x1="3984" y1="2832" x2="4752" y2="2832" stroke="green" stroke-width="2" />
+  <line x1="3984" y1="2927" x2="3984" y2="2832" stroke="red" stroke-width="2" />
+  <text x="4800" y="2832" fill="black">existing-j</text>
+  <line x1="4032" y1="2975" x2="4080" y2="2975" stroke="green" stroke-width="2" />
+  <line x1="4032" y1="2880" x2="4752" y2="2880" stroke="green" stroke-width="2" />
+  <line x1="4032" y1="2975" x2="4032" y2="2880" stroke="red" stroke-width="2" />
+  <text x="4800" y="2880" fill="black">external-j</text>
+  <line x1="4080" y1="3023" x2="4128" y2="3023" stroke="green" stroke-width="2" />
+  <line x1="4080" y1="2928" x2="4752" y2="2928" stroke="green" stroke-width="2" />
+  <line x1="4080" y1="3023" x2="4080" y2="2928" stroke="red" stroke-width="2" />
+  <text x="4800" y="2928" fill="black">mental-j</text>
+  <line x1="4128" y1="3071" x2="4176" y2="3071" stroke="green" stroke-width="2" />
+  <line x1="4128" y1="2976" x2="4752" y2="2976" stroke="green" stroke-width="2" />
+  <line x1="4128" y1="3071" x2="4128" y2="2976" stroke="red" stroke-width="2" />
+  <text x="4800" y="2976" fill="black">educational-j</text>
+  <line x1="4176" y1="3119" x2="4224" y2="3119" stroke="green" stroke-width="2" />
+  <line x1="4176" y1="3024" x2="4752" y2="3024" stroke="green" stroke-width="2" />
+  <line x1="4176" y1="3119" x2="4176" y2="3024" stroke="red" stroke-width="2" />
+  <text x="4800" y="3024" fill="black">academic-j</text>
+  <line x1="4224" y1="3167" x2="4272" y2="3167" stroke="green" stroke-width="2" />
+  <line x1="4224" y1="3072" x2="4752" y2="3072" stroke="green" stroke-width="2" />
+  <line x1="4224" y1="3167" x2="4224" y2="3072" stroke="red" stroke-width="2" />
+  <text x="4800" y="3072" fill="black">sexual-j</text>
+  <line x1="4272" y1="3215" x2="4320" y2="3215" stroke="green" stroke-width="2" />
+  <line x1="4272" y1="3120" x2="4752" y2="3120" stroke="green" stroke-width="2" />
+  <line x1="4272" y1="3215" x2="4272" y2="3120" stroke="red" stroke-width="2" />
+  <text x="4800" y="3120" fill="black">religious-j</text>
+  <line x1="4320" y1="3263" x2="4368" y2="3263" stroke="green" stroke-width="2" />
+  <line x1="4320" y1="3168" x2="4752" y2="3168" stroke="green" stroke-width="2" />
+  <line x1="4320" y1="3263" x2="4320" y2="3168" stroke="red" stroke-width="2" />
+  <text x="4800" y="3168" fill="black">cultural-j</text>
+  <line x1="4368" y1="3311" x2="4416" y2="3311" stroke="green" stroke-width="2" />
+  <line x1="4368" y1="3216" x2="4752" y2="3216" stroke="green" stroke-width="2" />
+  <line x1="4368" y1="3311" x2="4368" y2="3216" stroke="red" stroke-width="2" />
+  <text x="4800" y="3216" fill="black">environmental-j</text>
+  <line x1="4416" y1="3359" x2="4464" y2="3359" stroke="green" stroke-width="2" />
+  <line x1="4416" y1="3264" x2="4752" y2="3264" stroke="green" stroke-width="2" />
+  <line x1="4416" y1="3359" x2="4416" y2="3264" stroke="red" stroke-width="2" />
+  <text x="4800" y="3264" fill="black">industrial-j</text>
+  <line x1="4464" y1="3406" x2="4512" y2="3406" stroke="green" stroke-width="2" />
+  <line x1="4464" y1="3312" x2="4752" y2="3312" stroke="green" stroke-width="2" />
+  <line x1="4464" y1="3406" x2="4464" y2="3312" stroke="red" stroke-width="2" />
+  <text x="4800" y="3312" fill="black">scientific-j</text>
+  <line x1="4512" y1="3453" x2="4560" y2="3453" stroke="green" stroke-width="2" />
+  <line x1="4512" y1="3360" x2="4752" y2="3360" stroke="green" stroke-width="2" />
+  <line x1="4512" y1="3453" x2="4512" y2="3360" stroke="red" stroke-width="2" />
+  <text x="4800" y="3360" fill="black">European-j</text>
+  <line x1="4560" y1="3498" x2="4608" y2="3498" stroke="green" stroke-width="2" />
+  <line x1="4560" y1="3408" x2="4752" y2="3408" stroke="green" stroke-width="2" />
+  <line x1="4560" y1="3498" x2="4560" y2="3408" stroke="red" stroke-width="2" />
+  <text x="4800" y="3408" fill="black">commercial-j</text>
+  <line x1="4608" y1="3540" x2="4656" y2="3540" stroke="green" stroke-width="2" />
+  <line x1="4608" y1="3456" x2="4752" y2="3456" stroke="green" stroke-width="2" />
+  <line x1="4608" y1="3540" x2="4608" y2="3456" stroke="red" stroke-width="2" />
+  <text x="4800" y="3456" fill="black">corporate-j</text>
+  <line x1="4656" y1="3576" x2="4704" y2="3576" stroke="green" stroke-width="2" />
+  <line x1="4656" y1="3504" x2="4752" y2="3504" stroke="green" stroke-width="2" />
+  <line x1="4656" y1="3576" x2="4656" y2="3504" stroke="red" stroke-width="2" />
+  <text x="4800" y="3504" fill="black">solar-j</text>
+  <line x1="4704" y1="3600" x2="4752" y2="3600" stroke="green" stroke-width="2" />
+  <line x1="4704" y1="3552" x2="4752" y2="3552" stroke="green" stroke-width="2" />
+  <line x1="4704" y1="3600" x2="4704" y2="3552" stroke="red" stroke-width="2" />
+  <text x="4800" y="3552" fill="black">digital-j</text>
+  <text x="4800" y="3600" fill="black">mobile-j</text>
+  <line x1="4704" y1="3696" x2="4752" y2="3696" stroke="green" stroke-width="2" />
+  <line x1="4704" y1="3648" x2="4752" y2="3648" stroke="green" stroke-width="2" />
+  <line x1="4704" y1="3696" x2="4704" y2="3648" stroke="red" stroke-width="2" />
+  <text x="4800" y="3648" fill="black">clinical-j</text>
+  <text x="4800" y="3696" fill="black">historical-j</text>
+  <line x1="4704" y1="3792" x2="4752" y2="3792" stroke="green" stroke-width="2" />
+  <line x1="4704" y1="3744" x2="4752" y2="3744" stroke="green" stroke-width="2" />
+  <line x1="4704" y1="3792" x2="4704" y2="3744" stroke="red" stroke-width="2" />
+  <text x="4800" y="3744" fill="black">daily-j</text>
+  <text x="4800" y="3792" fill="black">English-j</text>
+  <line x1="4368" y1="3956" x2="4416" y2="3956" stroke="green" stroke-width="2" />
+  <line x1="4368" y1="3840" x2="4752" y2="3840" stroke="green" stroke-width="2" />
+  <line x1="4368" y1="3956" x2="4368" y2="3840" stroke="red" stroke-width="2" />
+  <text x="4800" y="3840" fill="black">famous-j</text>
+  <line x1="4416" y1="4024" x2="4464" y2="4024" stroke="green" stroke-width="2" />
+  <line x1="4416" y1="3888" x2="4752" y2="3888" stroke="green" stroke-width="2" />
+  <line x1="4416" y1="4024" x2="4416" y2="3888" stroke="red" stroke-width="2" />
+  <text x="4800" y="3888" fill="black">essential-j</text>
+  <line x1="4464" y1="4113" x2="4512" y2="4113" stroke="green" stroke-width="2" />
+  <line x1="4464" y1="3936" x2="4752" y2="3936" stroke="green" stroke-width="2" />
+  <line x1="4464" y1="4113" x2="4464" y2="3936" stroke="red" stroke-width="2" />
+  <text x="4800" y="3936" fill="black">quick-j</text>
+  <line x1="4512" y1="4200" x2="4704" y2="4200" stroke="green" stroke-width="2" />
+  <line x1="4512" y1="4026" x2="4608" y2="4026" stroke="green" stroke-width="2" />
+  <line x1="4512" y1="4200" x2="4512" y2="4026" stroke="red" stroke-width="2" />
+  <line x1="4608" y1="4068" x2="4656" y2="4068" stroke="green" stroke-width="2" />
+  <line x1="4608" y1="3984" x2="4752" y2="3984" stroke="green" stroke-width="2" />
+  <line x1="4608" y1="4068" x2="4608" y2="3984" stroke="red" stroke-width="2" />
+  <text x="4800" y="3984" fill="black">friendly-j</text>
+  <line x1="4656" y1="4104" x2="4704" y2="4104" stroke="green" stroke-width="2" />
+  <line x1="4656" y1="4032" x2="4752" y2="4032" stroke="green" stroke-width="2" />
+  <line x1="4656" y1="4104" x2="4656" y2="4032" stroke="red" stroke-width="2" />
+  <text x="4800" y="4032" fill="black">fine-j</text>
+  <line x1="4704" y1="4128" x2="4752" y2="4128" stroke="green" stroke-width="2" />
+  <line x1="4704" y1="4080" x2="4752" y2="4080" stroke="green" stroke-width="2" />
+  <line x1="4704" y1="4128" x2="4704" y2="4080" stroke="red" stroke-width="2" />
+  <text x="4800" y="4080" fill="black">clean-j</text>
+  <text x="4800" y="4128" fill="black">comfortable-j</text>
+  <line x1="4704" y1="4224" x2="4752" y2="4224" stroke="green" stroke-width="2" />
+  <line x1="4704" y1="4176" x2="4752" y2="4176" stroke="green" stroke-width="2" />
+  <line x1="4704" y1="4224" x2="4704" y2="4176" stroke="red" stroke-width="2" />
+  <text x="4800" y="4176" fill="black">amazing-j</text>
+  <text x="4800" y="4224" fill="black">wonderful-j</text>
+  <line x1="4704" y1="4320" x2="4752" y2="4320" stroke="green" stroke-width="2" />
+  <line x1="4704" y1="4272" x2="4752" y2="4272" stroke="green" stroke-width="2" />
+  <line x1="4704" y1="4320" x2="4704" y2="4272" stroke="red" stroke-width="2" />
+  <text x="4800" y="4272" fill="black">very-j</text>
+  <text x="4800" y="4320" fill="black">official-j</text>
+  <line x1="4704" y1="4416" x2="4752" y2="4416" stroke="green" stroke-width="2" />
+  <line x1="4704" y1="4368" x2="4752" y2="4368" stroke="green" stroke-width="2" />
+  <line x1="4704" y1="4416" x2="4704" y2="4368" stroke="red" stroke-width="2" />
+  <text x="4800" y="4368" fill="black">average-j</text>
+  <text x="4800" y="4416" fill="black">initial-j</text>
+  <line x1="4464" y1="4558" x2="4512" y2="4558" stroke="green" stroke-width="2" />
+  <line x1="4464" y1="4464" x2="4752" y2="4464" stroke="green" stroke-width="2" />
+  <line x1="4464" y1="4558" x2="4464" y2="4464" stroke="red" stroke-width="2" />
+  <text x="4800" y="4464" fill="black">maximum-j</text>
+  <line x1="4512" y1="4605" x2="4560" y2="4605" stroke="green" stroke-width="2" />
+  <line x1="4512" y1="4512" x2="4752" y2="4512" stroke="green" stroke-width="2" />
+  <line x1="4512" y1="4605" x2="4512" y2="4512" stroke="red" stroke-width="2" />
+  <text x="4800" y="4512" fill="black">subject-j</text>
+  <line x1="4560" y1="4650" x2="4608" y2="4650" stroke="green" stroke-width="2" />
+  <line x1="4560" y1="4560" x2="4752" y2="4560" stroke="green" stroke-width="2" />
+  <line x1="4560" y1="4650" x2="4560" y2="4560" stroke="red" stroke-width="2" />
+  <text x="4800" y="4560" fill="black">equal-j</text>
+  <line x1="4608" y1="4692" x2="4656" y2="4692" stroke="green" stroke-width="2" />
+  <line x1="4608" y1="4608" x2="4752" y2="4608" stroke="green" stroke-width="2" />
+  <line x1="4608" y1="4692" x2="4608" y2="4608" stroke="red" stroke-width="2" />
+  <text x="4800" y="4608" fill="black">efficient-j</text>
+  <line x1="4656" y1="4728" x2="4704" y2="4728" stroke="green" stroke-width="2" />
+  <line x1="4656" y1="4656" x2="4752" y2="4656" stroke="green" stroke-width="2" />
+  <line x1="4656" y1="4728" x2="4656" y2="4656" stroke="red" stroke-width="2" />
+  <text x="4800" y="4656" fill="black">expensive-j</text>
+  <line x1="4704" y1="4752" x2="4752" y2="4752" stroke="green" stroke-width="2" />
+  <line x1="4704" y1="4704" x2="4752" y2="4704" stroke="green" stroke-width="2" />
+  <line x1="4704" y1="4752" x2="4704" y2="4704" stroke="red" stroke-width="2" />
+  <text x="4800" y="4704" fill="black">correct-j</text>
+  <text x="4800" y="4752" fill="black">dead-j</text>
+</svg>

@@ -1,0 +1,1458 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2825.2915"
+   height="1366.0625"
+   version="1.1"
+   id="svg3272"
+   sodipodi:docname="clusters_en_100_j_2.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata3278">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3276" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1918"
+     inkscape:window-height="1178"
+     id="namedview3274"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.31613566"
+     inkscape:cx="1835.94"
+     inkscape:cy="108.64138"
+     inkscape:window-x="1920"
+     inkscape:window-y="20"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3272" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="2711.875"
+     y1="530.875"
+     x2="2711.875"
+     y2="578.875"
+     id="line2854" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="2806.875"
+     y1="530.875"
+     x2="2806.875"
+     y2="1010.875"
+     id="line2856" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="2711.875"
+     y1="530.875"
+     x2="2806.875"
+     y2="530.875"
+     id="line2858" />
+  <text
+     x="1032.875"
+     y="-2792.875"
+     id="text2860"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+     transform="rotate(90)">warm-j</text>
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="2663.875"
+     y1="578.875"
+     x2="2663.875"
+     y2="626.875"
+     id="line2862" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="2758.875"
+     y1="578.875"
+     x2="2758.875"
+     y2="1010.875"
+     id="line2864" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="2663.875"
+     y1="578.875"
+     x2="2758.875"
+     y2="578.875"
+     id="line2866" />
+  <text
+     x="1032.875"
+     y="-2744.875"
+     id="text2868"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+     transform="rotate(90)">soft-j</text>
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="2615.875"
+     y1="626.875"
+     x2="2615.875"
+     y2="674.875"
+     id="line2870" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="2710.875"
+     y1="626.875"
+     x2="2710.875"
+     y2="1010.875"
+     id="line2872" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="2615.875"
+     y1="626.875"
+     x2="2710.875"
+     y2="626.875"
+     id="line2874" />
+  <text
+     x="1032.875"
+     y="-2696.875"
+     id="text2876"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+     transform="rotate(90)">fast-j</text>
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="2567.875"
+     y1="674.875"
+     x2="2567.875"
+     y2="722.875"
+     id="line2878" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="2662.875"
+     y1="674.875"
+     x2="2662.875"
+     y2="1010.875"
+     id="line2880" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="2567.875"
+     y1="674.875"
+     x2="2662.875"
+     y2="674.875"
+     id="line2882" />
+  <text
+     x="1032.875"
+     y="-2648.875"
+     id="text2884"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+     transform="rotate(90)">solid-j</text>
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="2520.875"
+     y1="722.875"
+     x2="2520.875"
+     y2="770.875"
+     id="line2886" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="2614.875"
+     y1="722.875"
+     x2="2614.875"
+     y2="1010.875"
+     id="line2888" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="2520.875"
+     y1="722.875"
+     x2="2614.875"
+     y2="722.875"
+     id="line2890" />
+  <text
+     x="1032.875"
+     y="-2600.875"
+     id="text2892"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+     transform="rotate(90)">live-j</text>
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="2473.875"
+     y1="770.875"
+     x2="2473.875"
+     y2="818.875"
+     id="line2894" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="2566.875"
+     y1="770.875"
+     x2="2566.875"
+     y2="1010.875"
+     id="line2896" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="2473.875"
+     y1="770.875"
+     x2="2566.875"
+     y2="770.875"
+     id="line2898" />
+  <text
+     x="1032.875"
+     y="-2552.875"
+     id="text2900"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+     transform="rotate(90)">fresh-j</text>
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="2428.875"
+     y1="818.875"
+     x2="2428.875"
+     y2="866.875"
+     id="line2902" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="2518.875"
+     y1="818.875"
+     x2="2518.875"
+     y2="1010.875"
+     id="line2904" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="2428.875"
+     y1="818.875"
+     x2="2518.875"
+     y2="818.875"
+     id="line2906" />
+  <text
+     x="1032.875"
+     y="-2504.875"
+     id="text2908"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+     transform="rotate(90)">blue-j</text>
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="2386.875"
+     y1="866.875"
+     x2="2386.875"
+     y2="914.875"
+     id="line2910" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="2470.875"
+     y1="866.875"
+     x2="2470.875"
+     y2="1010.875"
+     id="line2912" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="2386.875"
+     y1="866.875"
+     x2="2470.875"
+     y2="866.875"
+     id="line2914" />
+  <text
+     x="1032.875"
+     y="-2456.875"
+     id="text2916"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+     transform="rotate(90)">red-j</text>
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="2350.875"
+     y1="914.875"
+     x2="2350.875"
+     y2="962.875"
+     id="line2918" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="2422.875"
+     y1="914.875"
+     x2="2422.875"
+     y2="1010.875"
+     id="line2920" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="2350.875"
+     y1="914.875"
+     x2="2422.875"
+     y2="914.875"
+     id="line2922" />
+  <text
+     x="1032.875"
+     y="-2408.875"
+     id="text2924"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+     transform="rotate(90)">dark-j</text>
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="2326.875"
+     y1="962.875"
+     x2="2326.875"
+     y2="1010.875"
+     id="line2926" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="2374.875"
+     y1="962.875"
+     x2="2374.875"
+     y2="1010.875"
+     id="line2928" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="2326.875"
+     y1="962.875"
+     x2="2374.875"
+     y2="962.875"
+     id="line2930" />
+  <text
+     x="1032.875"
+     y="-2360.875"
+     id="text2932"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+     transform="rotate(90)">heavy-j</text>
+  <text
+     x="1032.875"
+     y="-2312.875"
+     id="text2934"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+     transform="rotate(90)">green-j</text>
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="2230.875"
+     y1="962.875"
+     x2="2230.875"
+     y2="1010.875"
+     id="line2936" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="2278.875"
+     y1="962.875"
+     x2="2278.875"
+     y2="1010.875"
+     id="line2938" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="2230.875"
+     y1="962.875"
+     x2="2278.875"
+     y2="962.875"
+     id="line2940" />
+  <text
+     x="1032.875"
+     y="-2264.875"
+     id="text2942"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+     transform="rotate(90)">powerful-j</text>
+  <text
+     x="1032.875"
+     y="-2216.875"
+     id="text2944"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+     transform="rotate(90)">rich-j</text>
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="2087.875"
+     y1="2.8750181"
+     x2="2087.875"
+     y2="50.875019"
+     id="line2946" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="2182.875"
+     y1="2.8750181"
+     x2="2182.875"
+     y2="1010.875"
+     id="line2948" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="2087.875"
+     y1="2.8750181"
+     x2="2182.875"
+     y2="2.8750181"
+     id="line2950" />
+  <text
+     x="1032.875"
+     y="-2168.875"
+     id="text2952"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+     transform="rotate(90)">federal-j</text>
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="2039.875"
+     y1="50.875019"
+     x2="2039.875"
+     y2="98.875015"
+     id="line2954" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="2134.875"
+     y1="50.875019"
+     x2="2134.875"
+     y2="1010.875"
+     id="line2956" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="2039.875"
+     y1="50.875019"
+     x2="2134.875"
+     y2="50.875019"
+     id="line2958" />
+  <text
+     x="1032.875"
+     y="-2120.875"
+     id="text2960"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+     transform="rotate(90)">civil-j</text>
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="1991.875"
+     y1="98.875015"
+     x2="1991.875"
+     y2="146.87502"
+     id="line2962" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="2086.875"
+     y1="98.875015"
+     x2="2086.875"
+     y2="1010.875"
+     id="line2964" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="1991.875"
+     y1="98.875015"
+     x2="2086.875"
+     y2="98.875015"
+     id="line2966" />
+  <text
+     x="1032.875"
+     y="-2072.875"
+     id="text2968"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+     transform="rotate(90)">nuclear-j</text>
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="1943.875"
+     y1="146.87502"
+     x2="1943.875"
+     y2="194.87502"
+     id="line2970" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="2038.875"
+     y1="146.87502"
+     x2="2038.875"
+     y2="1010.875"
+     id="line2972" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="1943.875"
+     y1="146.87502"
+     x2="2038.875"
+     y2="146.87502"
+     id="line2974" />
+  <text
+     x="1032.875"
+     y="-2024.875"
+     id="text2976"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+     transform="rotate(90)">domestic-j</text>
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="1895.875"
+     y1="194.87502"
+     x2="1895.875"
+     y2="242.87502"
+     id="line2978" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="1990.875"
+     y1="194.87502"
+     x2="1990.875"
+     y2="1010.875"
+     id="line2980" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="1895.875"
+     y1="194.87502"
+     x2="1990.875"
+     y2="194.87502"
+     id="line2982" />
+  <text
+     x="1032.875"
+     y="-1976.875"
+     id="text2984"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+     transform="rotate(90)">regional-j</text>
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="1847.875"
+     y1="242.87502"
+     x2="1847.875"
+     y2="290.87503"
+     id="line2986" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="1942.875"
+     y1="242.87502"
+     x2="1942.875"
+     y2="1010.875"
+     id="line2988" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="1847.875"
+     y1="242.87502"
+     x2="1942.875"
+     y2="242.87502"
+     id="line2990" />
+  <text
+     x="1032.875"
+     y="-1928.875"
+     id="text2992"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+     transform="rotate(90)">existing-j</text>
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="1799.875"
+     y1="290.87503"
+     x2="1799.875"
+     y2="338.87503"
+     id="line2994" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="1894.875"
+     y1="290.87503"
+     x2="1894.875"
+     y2="1010.875"
+     id="line2996" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="1799.875"
+     y1="290.87503"
+     x2="1894.875"
+     y2="290.87503"
+     id="line2998" />
+  <text
+     x="1032.875"
+     y="-1880.875"
+     id="text3000"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+     transform="rotate(90)">external-j</text>
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="1751.875"
+     y1="338.87503"
+     x2="1751.875"
+     y2="386.87503"
+     id="line3002" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="1846.875"
+     y1="338.87503"
+     x2="1846.875"
+     y2="1010.875"
+     id="line3004" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="1751.875"
+     y1="338.87503"
+     x2="1846.875"
+     y2="338.87503"
+     id="line3006" />
+  <text
+     x="1032.875"
+     y="-1832.875"
+     id="text3008"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+     transform="rotate(90)">mental-j</text>
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="1703.875"
+     y1="386.87503"
+     x2="1703.875"
+     y2="434.87503"
+     id="line3010" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="1798.875"
+     y1="386.87503"
+     x2="1798.875"
+     y2="1010.875"
+     id="line3012" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="1703.875"
+     y1="386.87503"
+     x2="1798.875"
+     y2="386.87503"
+     id="line3014" />
+  <text
+     x="1032.875"
+     y="-1784.875"
+     id="text3016"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+     transform="rotate(90)">educational-j</text>
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="1655.875"
+     y1="434.87503"
+     x2="1655.875"
+     y2="482.87503"
+     id="line3018" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="1750.875"
+     y1="434.87503"
+     x2="1750.875"
+     y2="1010.875"
+     id="line3020" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="1655.875"
+     y1="434.87503"
+     x2="1750.875"
+     y2="434.87503"
+     id="line3022" />
+  <text
+     x="1032.875"
+     y="-1736.875"
+     id="text3024"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+     transform="rotate(90)">academic-j</text>
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="1607.875"
+     y1="482.87503"
+     x2="1607.875"
+     y2="530.875"
+     id="line3026" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="1702.875"
+     y1="482.87503"
+     x2="1702.875"
+     y2="1010.875"
+     id="line3028" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="1607.875"
+     y1="482.87503"
+     x2="1702.875"
+     y2="482.87503"
+     id="line3030" />
+  <text
+     x="1032.875"
+     y="-1688.875"
+     id="text3032"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+     transform="rotate(90)">sexual-j</text>
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="1559.875"
+     y1="530.875"
+     x2="1559.875"
+     y2="578.875"
+     id="line3034" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="1654.875"
+     y1="530.875"
+     x2="1654.875"
+     y2="1010.875"
+     id="line3036" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="1559.875"
+     y1="530.875"
+     x2="1654.875"
+     y2="530.875"
+     id="line3038" />
+  <text
+     x="1032.875"
+     y="-1640.875"
+     id="text3040"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+     transform="rotate(90)">religious-j</text>
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="1511.875"
+     y1="578.875"
+     x2="1511.875"
+     y2="626.875"
+     id="line3042" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="1606.875"
+     y1="578.875"
+     x2="1606.875"
+     y2="1010.875"
+     id="line3044" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="1511.875"
+     y1="578.875"
+     x2="1606.875"
+     y2="578.875"
+     id="line3046" />
+  <text
+     x="1032.875"
+     y="-1592.875"
+     id="text3048"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+     transform="rotate(90)">cultural-j</text>
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="1463.875"
+     y1="626.875"
+     x2="1463.875"
+     y2="674.875"
+     id="line3050" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="1558.875"
+     y1="626.875"
+     x2="1558.875"
+     y2="1010.875"
+     id="line3052" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="1463.875"
+     y1="626.875"
+     x2="1558.875"
+     y2="626.875"
+     id="line3054" />
+  <text
+     x="1032.875"
+     y="-1544.875"
+     id="text3056"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+     transform="rotate(90)">environmental-j</text>
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="1415.875"
+     y1="674.875"
+     x2="1415.875"
+     y2="722.875"
+     id="line3058" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="1510.875"
+     y1="674.875"
+     x2="1510.875"
+     y2="1010.875"
+     id="line3060" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="1415.875"
+     y1="674.875"
+     x2="1510.875"
+     y2="674.875"
+     id="line3062" />
+  <text
+     x="1032.875"
+     y="-1496.875"
+     id="text3064"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+     transform="rotate(90)">industrial-j</text>
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="1368.875"
+     y1="722.875"
+     x2="1368.875"
+     y2="770.875"
+     id="line3066" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="1462.875"
+     y1="722.875"
+     x2="1462.875"
+     y2="1010.875"
+     id="line3068" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="1368.875"
+     y1="722.875"
+     x2="1462.875"
+     y2="722.875"
+     id="line3070" />
+  <text
+     x="1032.875"
+     y="-1448.875"
+     id="text3072"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+     transform="rotate(90)">scientific-j</text>
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="1321.875"
+     y1="770.875"
+     x2="1321.875"
+     y2="818.875"
+     id="line3074" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="1414.875"
+     y1="770.875"
+     x2="1414.875"
+     y2="1010.875"
+     id="line3076" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="1321.875"
+     y1="770.875"
+     x2="1414.875"
+     y2="770.875"
+     id="line3078" />
+  <text
+     x="1032.875"
+     y="-1400.875"
+     id="text3080"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+     transform="rotate(90)">European-j</text>
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="1276.875"
+     y1="818.875"
+     x2="1276.875"
+     y2="866.875"
+     id="line3082" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="1366.875"
+     y1="818.875"
+     x2="1366.875"
+     y2="1010.875"
+     id="line3084" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="1276.875"
+     y1="818.875"
+     x2="1366.875"
+     y2="818.875"
+     id="line3086" />
+  <text
+     x="1032.875"
+     y="-1352.875"
+     id="text3088"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+     transform="rotate(90)">commercial-j</text>
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="1234.875"
+     y1="866.875"
+     x2="1234.875"
+     y2="914.875"
+     id="line3090" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="1318.875"
+     y1="866.875"
+     x2="1318.875"
+     y2="1010.875"
+     id="line3092" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="1234.875"
+     y1="866.875"
+     x2="1318.875"
+     y2="866.875"
+     id="line3094" />
+  <text
+     x="1032.875"
+     y="-1304.875"
+     id="text3096"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+     transform="rotate(90)">corporate-j</text>
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="1198.875"
+     y1="914.875"
+     x2="1198.875"
+     y2="962.875"
+     id="line3098" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="1270.875"
+     y1="914.875"
+     x2="1270.875"
+     y2="1010.875"
+     id="line3100" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="1198.875"
+     y1="914.875"
+     x2="1270.875"
+     y2="914.875"
+     id="line3102" />
+  <text
+     x="1032.875"
+     y="-1256.875"
+     id="text3104"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+     transform="rotate(90)">solar-j</text>
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="1174.875"
+     y1="962.875"
+     x2="1174.875"
+     y2="1010.875"
+     id="line3106" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="1222.875"
+     y1="962.875"
+     x2="1222.875"
+     y2="1010.875"
+     id="line3108" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="1174.875"
+     y1="962.875"
+     x2="1222.875"
+     y2="962.875"
+     id="line3110" />
+  <text
+     x="1032.875"
+     y="-1208.875"
+     id="text3112"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+     transform="rotate(90)">digital-j</text>
+  <text
+     x="1032.875"
+     y="-1160.875"
+     id="text3114"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+     transform="rotate(90)">mobile-j</text>
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="1078.875"
+     y1="962.875"
+     x2="1078.875"
+     y2="1010.875"
+     id="line3116" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="1126.875"
+     y1="962.875"
+     x2="1126.875"
+     y2="1010.875"
+     id="line3118" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="1078.875"
+     y1="962.875"
+     x2="1126.875"
+     y2="962.875"
+     id="line3120" />
+  <text
+     x="1032.875"
+     y="-1112.875"
+     id="text3122"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+     transform="rotate(90)">clinical-j</text>
+  <text
+     x="1032.875"
+     y="-1064.875"
+     id="text3124"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+     transform="rotate(90)">historical-j</text>
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="982.87494"
+     y1="962.875"
+     x2="982.87494"
+     y2="1010.875"
+     id="line3126" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="1030.875"
+     y1="962.875"
+     x2="1030.875"
+     y2="1010.875"
+     id="line3128" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="982.87494"
+     y1="962.875"
+     x2="1030.875"
+     y2="962.875"
+     id="line3130" />
+  <text
+     x="1032.875"
+     y="-1016.8749"
+     id="text3132"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+     transform="rotate(90)">daily-j</text>
+  <text
+     x="1032.875"
+     y="-968.87494"
+     id="text3134"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+     transform="rotate(90)">English-j</text>
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="818.87494"
+     y1="626.875"
+     x2="818.87494"
+     y2="674.875"
+     id="line3136" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="934.87494"
+     y1="626.875"
+     x2="934.87494"
+     y2="1010.875"
+     id="line3138" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="818.87494"
+     y1="626.875"
+     x2="934.87494"
+     y2="626.875"
+     id="line3140" />
+  <text
+     x="1032.875"
+     y="-920.87494"
+     id="text3142"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+     transform="rotate(90)">famous-j</text>
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="750.87494"
+     y1="674.875"
+     x2="750.87494"
+     y2="722.875"
+     id="line3144" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="886.87494"
+     y1="674.875"
+     x2="886.87494"
+     y2="1010.875"
+     id="line3146" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="750.87494"
+     y1="674.875"
+     x2="886.87494"
+     y2="674.875"
+     id="line3148" />
+  <text
+     x="1032.875"
+     y="-872.87494"
+     id="text3150"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+     transform="rotate(90)">essential-j</text>
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="661.87494"
+     y1="722.875"
+     x2="661.87494"
+     y2="770.875"
+     id="line3152" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="838.87494"
+     y1="722.875"
+     x2="838.87494"
+     y2="1010.875"
+     id="line3154" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="661.87494"
+     y1="722.875"
+     x2="838.87494"
+     y2="722.875"
+     id="line3156" />
+  <text
+     x="1032.875"
+     y="-824.87494"
+     id="text3158"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+     transform="rotate(90)">quick-j</text>
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="574.87494"
+     y1="770.875"
+     x2="574.87494"
+     y2="962.875"
+     id="line3160" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="748.87494"
+     y1="770.875"
+     x2="748.87494"
+     y2="866.875"
+     id="line3162" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="574.87494"
+     y1="770.875"
+     x2="748.87494"
+     y2="770.875"
+     id="line3164" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="706.87494"
+     y1="866.875"
+     x2="706.87494"
+     y2="914.875"
+     id="line3166" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="790.87494"
+     y1="866.875"
+     x2="790.87494"
+     y2="1010.875"
+     id="line3168" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="706.87494"
+     y1="866.875"
+     x2="790.87494"
+     y2="866.875"
+     id="line3170" />
+  <text
+     x="1032.875"
+     y="-776.87494"
+     id="text3172"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+     transform="rotate(90)">friendly-j</text>
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="670.87494"
+     y1="914.875"
+     x2="670.87494"
+     y2="962.875"
+     id="line3174" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="742.87494"
+     y1="914.875"
+     x2="742.87494"
+     y2="1010.875"
+     id="line3176" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="670.87494"
+     y1="914.875"
+     x2="742.87494"
+     y2="914.875"
+     id="line3178" />
+  <text
+     x="1032.875"
+     y="-728.87494"
+     id="text3180"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+     transform="rotate(90)">fine-j</text>
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="646.87494"
+     y1="962.875"
+     x2="646.87494"
+     y2="1010.875"
+     id="line3182" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="694.87494"
+     y1="962.875"
+     x2="694.87494"
+     y2="1010.875"
+     id="line3184" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="646.87494"
+     y1="962.875"
+     x2="694.87494"
+     y2="962.875"
+     id="line3186" />
+  <text
+     x="1032.875"
+     y="-680.87494"
+     id="text3188"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+     transform="rotate(90)">clean-j</text>
+  <text
+     x="1032.875"
+     y="-632.87494"
+     id="text3190"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+     transform="rotate(90)">comfortable-j</text>
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="550.87494"
+     y1="962.875"
+     x2="550.87494"
+     y2="1010.875"
+     id="line3192" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="598.87494"
+     y1="962.875"
+     x2="598.87494"
+     y2="1010.875"
+     id="line3194" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="550.87494"
+     y1="962.875"
+     x2="598.87494"
+     y2="962.875"
+     id="line3196" />
+  <text
+     x="1032.875"
+     y="-584.87494"
+     id="text3198"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+     transform="rotate(90)">amazing-j</text>
+  <text
+     x="1032.875"
+     y="-536.87494"
+     id="text3200"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+     transform="rotate(90)">wonderful-j</text>
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="454.87494"
+     y1="962.875"
+     x2="454.87494"
+     y2="1010.875"
+     id="line3202" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="502.87494"
+     y1="962.875"
+     x2="502.87494"
+     y2="1010.875"
+     id="line3204" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="454.87494"
+     y1="962.875"
+     x2="502.87494"
+     y2="962.875"
+     id="line3206" />
+  <text
+     x="1032.875"
+     y="-488.87494"
+     id="text3208"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+     transform="rotate(90)">very-j</text>
+  <text
+     x="1032.875"
+     y="-440.87494"
+     id="text3210"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+     transform="rotate(90)">official-j</text>
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="358.87494"
+     y1="962.875"
+     x2="358.87494"
+     y2="1010.875"
+     id="line3212" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="406.87494"
+     y1="962.875"
+     x2="406.87494"
+     y2="1010.875"
+     id="line3214" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="358.87494"
+     y1="962.875"
+     x2="406.87494"
+     y2="962.875"
+     id="line3216" />
+  <text
+     x="1032.875"
+     y="-392.87494"
+     id="text3218"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+     transform="rotate(90)">average-j</text>
+  <text
+     x="1032.875"
+     y="-344.87494"
+     id="text3220"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+     transform="rotate(90)">initial-j</text>
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="216.875"
+     y1="722.875"
+     x2="216.875"
+     y2="770.875"
+     id="line3222" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="310.87494"
+     y1="722.875"
+     x2="310.87494"
+     y2="1010.875"
+     id="line3224" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="216.875"
+     y1="722.875"
+     x2="310.87494"
+     y2="722.875"
+     id="line3226" />
+  <text
+     x="1032.875"
+     y="-296.87494"
+     id="text3228"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+     transform="rotate(90)">maximum-j</text>
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="169.875"
+     y1="770.875"
+     x2="169.875"
+     y2="818.875"
+     id="line3230" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="262.87494"
+     y1="770.875"
+     x2="262.87494"
+     y2="1010.875"
+     id="line3232" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="169.875"
+     y1="770.875"
+     x2="262.87494"
+     y2="770.875"
+     id="line3234" />
+  <text
+     x="1032.875"
+     y="-248.87494"
+     id="text3236"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+     transform="rotate(90)">subject-j</text>
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="124.875"
+     y1="818.875"
+     x2="124.875"
+     y2="866.875"
+     id="line3238" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="214.875"
+     y1="818.875"
+     x2="214.875"
+     y2="1010.875"
+     id="line3240" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="124.875"
+     y1="818.875"
+     x2="214.875"
+     y2="818.875"
+     id="line3242" />
+  <text
+     x="1032.875"
+     y="-200.875"
+     id="text3244"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+     transform="rotate(90)">equal-j</text>
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="82.875"
+     y1="866.875"
+     x2="82.875"
+     y2="914.875"
+     id="line3246" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="166.875"
+     y1="866.875"
+     x2="166.875"
+     y2="1010.875"
+     id="line3248" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="82.875"
+     y1="866.875"
+     x2="166.875"
+     y2="866.875"
+     id="line3250" />
+  <text
+     x="1032.875"
+     y="-152.875"
+     id="text3252"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+     transform="rotate(90)">efficient-j</text>
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="46.875"
+     y1="914.875"
+     x2="46.875"
+     y2="962.875"
+     id="line3254" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="118.875"
+     y1="914.875"
+     x2="118.875"
+     y2="1010.875"
+     id="line3256" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="46.875"
+     y1="914.875"
+     x2="118.875"
+     y2="914.875"
+     id="line3258" />
+  <text
+     x="1032.875"
+     y="-104.875"
+     id="text3260"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+     transform="rotate(90)">expensive-j</text>
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="22.875"
+     y1="962.875"
+     x2="22.875"
+     y2="1010.875"
+     id="line3262" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="70.875"
+     y1="962.875"
+     x2="70.875"
+     y2="1010.875"
+     id="line3264" />
+  <line
+     style="stroke:#000d00;stroke-width:5.6692915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     x1="22.875"
+     y1="962.875"
+     x2="70.875"
+     y2="962.875"
+     id="line3266" />
+  <text
+     x="1032.875"
+     y="-56.875"
+     id="text3268"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+     transform="rotate(90)">correct-j</text>
+  <text
+     x="1032.875"
+     y="-8.875"
+     id="text3270"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+     transform="rotate(90)">dead-j</text>
+</svg>

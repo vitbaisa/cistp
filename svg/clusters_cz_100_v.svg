@@ -1,0 +1,399 @@
+<svg width="4800" height="4800">
+  <line x1="0" y1="790" x2="48" y2="790" stroke="green" stroke-width="2" />
+  <line x1="0" y1="0" x2="4752" y2="0" stroke="green" stroke-width="2" />
+  <line x1="0" y1="790" x2="0" y2="0" stroke="red" stroke-width="2" />
+  <text x="4800" y="0" fill="black">domnívat-v</text>
+  <line x1="48" y1="1533" x2="96" y2="1533" stroke="green" stroke-width="2" />
+  <line x1="48" y1="48" x2="4752" y2="48" stroke="green" stroke-width="2" />
+  <line x1="48" y1="1533" x2="48" y2="48" stroke="red" stroke-width="2" />
+  <text x="4800" y="48" fill="black">prohlásit-v</text>
+  <line x1="96" y1="2901" x2="2064" y2="2901" stroke="green" stroke-width="2" />
+  <line x1="96" y1="165" x2="2832" y2="165" stroke="green" stroke-width="2" />
+  <line x1="96" y1="2901" x2="96" y2="165" stroke="red" stroke-width="2" />
+  <line x1="2832" y1="235" x2="2880" y2="235" stroke="green" stroke-width="2" />
+  <line x1="2832" y1="96" x2="4752" y2="96" stroke="green" stroke-width="2" />
+  <line x1="2832" y1="235" x2="2832" y2="96" stroke="red" stroke-width="2" />
+  <text x="4800" y="96" fill="black">zahrnovat-v</text>
+  <line x1="2880" y1="302" x2="2976" y2="302" stroke="green" stroke-width="2" />
+  <line x1="2880" y1="168" x2="4704" y2="168" stroke="green" stroke-width="2" />
+  <line x1="2880" y1="302" x2="2880" y2="168" stroke="red" stroke-width="2" />
+  <line x1="4704" y1="192" x2="4752" y2="192" stroke="green" stroke-width="2" />
+  <line x1="4704" y1="144" x2="4752" y2="144" stroke="green" stroke-width="2" />
+  <line x1="4704" y1="192" x2="4704" y2="144" stroke="red" stroke-width="2" />
+  <text x="4800" y="144" fill="black">upozornit-v</text>
+  <text x="4800" y="192" fill="black">zmínit-v</text>
+  <line x1="2976" y1="364" x2="3024" y2="364" stroke="green" stroke-width="2" />
+  <line x1="2976" y1="240" x2="4752" y2="240" stroke="green" stroke-width="2" />
+  <line x1="2976" y1="364" x2="2976" y2="240" stroke="red" stroke-width="2" />
+  <text x="4800" y="240" fill="black">rozdělit-v</text>
+  <line x1="3024" y1="441" x2="3072" y2="441" stroke="green" stroke-width="2" />
+  <line x1="3024" y1="288" x2="4752" y2="288" stroke="green" stroke-width="2" />
+  <line x1="3024" y1="441" x2="3024" y2="288" stroke="red" stroke-width="2" />
+  <text x="4800" y="288" fill="black">souviset-v</text>
+  <line x1="3072" y1="547" x2="3120" y2="547" stroke="green" stroke-width="2" />
+  <line x1="3072" y1="336" x2="4752" y2="336" stroke="green" stroke-width="2" />
+  <line x1="3072" y1="547" x2="3072" y2="336" stroke="red" stroke-width="2" />
+  <text x="4800" y="336" fill="black">pocházet-v</text>
+  <line x1="3120" y1="710" x2="3168" y2="710" stroke="green" stroke-width="2" />
+  <line x1="3120" y1="384" x2="4752" y2="384" stroke="green" stroke-width="2" />
+  <line x1="3120" y1="710" x2="3120" y2="384" stroke="red" stroke-width="2" />
+  <text x="4800" y="384" fill="black">ozvat-v</text>
+  <line x1="3168" y1="952" x2="3312" y2="952" stroke="green" stroke-width="2" />
+  <line x1="3168" y1="468" x2="4656" y2="468" stroke="green" stroke-width="2" />
+  <line x1="3168" y1="952" x2="3168" y2="468" stroke="red" stroke-width="2" />
+  <line x1="4656" y1="504" x2="4704" y2="504" stroke="green" stroke-width="2" />
+  <line x1="4656" y1="432" x2="4752" y2="432" stroke="green" stroke-width="2" />
+  <line x1="4656" y1="504" x2="4656" y2="432" stroke="red" stroke-width="2" />
+  <text x="4800" y="432" fill="black">nastat-v</text>
+  <line x1="4704" y1="528" x2="4752" y2="528" stroke="green" stroke-width="2" />
+  <line x1="4704" y1="480" x2="4752" y2="480" stroke="green" stroke-width="2" />
+  <line x1="4704" y1="528" x2="4704" y2="480" stroke="red" stroke-width="2" />
+  <text x="4800" y="480" fill="black">plánovat-v</text>
+  <text x="4800" y="528" fill="black">hodnotit-v</text>
+  <line x1="3312" y1="1328" x2="3360" y2="1328" stroke="green" stroke-width="2" />
+  <line x1="3312" y1="576" x2="4752" y2="576" stroke="green" stroke-width="2" />
+  <line x1="3312" y1="1328" x2="3312" y2="576" stroke="red" stroke-width="2" />
+  <text x="4800" y="576" fill="black">otočit-v</text>
+  <line x1="3360" y1="1956" x2="4656" y2="1956" stroke="green" stroke-width="2" />
+  <line x1="3360" y1="701" x2="3504" y2="701" stroke="green" stroke-width="2" />
+  <line x1="3360" y1="1956" x2="3360" y2="701" stroke="red" stroke-width="2" />
+  <line x1="3504" y1="778" x2="3552" y2="778" stroke="green" stroke-width="2" />
+  <line x1="3504" y1="624" x2="4752" y2="624" stroke="green" stroke-width="2" />
+  <line x1="3504" y1="778" x2="3504" y2="624" stroke="red" stroke-width="2" />
+  <text x="4800" y="624" fill="black">dovést-v</text>
+  <line x1="3552" y1="884" x2="3600" y2="884" stroke="green" stroke-width="2" />
+  <line x1="3552" y1="672" x2="4752" y2="672" stroke="green" stroke-width="2" />
+  <line x1="3552" y1="884" x2="3552" y2="672" stroke="red" stroke-width="2" />
+  <text x="4800" y="672" fill="black">posílat-v</text>
+  <line x1="3600" y1="1012" x2="3744" y2="1012" stroke="green" stroke-width="2" />
+  <line x1="3600" y1="756" x2="4656" y2="756" stroke="green" stroke-width="2" />
+  <line x1="3600" y1="1012" x2="3600" y2="756" stroke="red" stroke-width="2" />
+  <line x1="4656" y1="792" x2="4704" y2="792" stroke="green" stroke-width="2" />
+  <line x1="4656" y1="720" x2="4752" y2="720" stroke="green" stroke-width="2" />
+  <line x1="4656" y1="792" x2="4656" y2="720" stroke="red" stroke-width="2" />
+  <text x="4800" y="720" fill="black">popisovat-v</text>
+  <line x1="4704" y1="816" x2="4752" y2="816" stroke="green" stroke-width="2" />
+  <line x1="4704" y1="768" x2="4752" y2="768" stroke="green" stroke-width="2" />
+  <line x1="4704" y1="816" x2="4704" y2="768" stroke="red" stroke-width="2" />
+  <text x="4800" y="768" fill="black">sdělit-v</text>
+  <text x="4800" y="816" fill="black">učinit-v</text>
+  <line x1="3744" y1="1160" x2="3792" y2="1160" stroke="green" stroke-width="2" />
+  <line x1="3744" y1="864" x2="4752" y2="864" stroke="green" stroke-width="2" />
+  <line x1="3744" y1="1160" x2="3744" y2="864" stroke="red" stroke-width="2" />
+  <text x="4800" y="864" fill="black">označit-v</text>
+  <line x1="3792" y1="1409" x2="3840" y2="1409" stroke="green" stroke-width="2" />
+  <line x1="3792" y1="912" x2="4752" y2="912" stroke="green" stroke-width="2" />
+  <line x1="3792" y1="1409" x2="3792" y2="912" stroke="red" stroke-width="2" />
+  <text x="4800" y="912" fill="black">přispět-v</text>
+  <line x1="3840" y1="1812" x2="4656" y2="1812" stroke="green" stroke-width="2" />
+  <line x1="3840" y1="1007" x2="3984" y2="1007" stroke="green" stroke-width="2" />
+  <line x1="3840" y1="1812" x2="3840" y2="1007" stroke="red" stroke-width="2" />
+  <line x1="3984" y1="1055" x2="4032" y2="1055" stroke="green" stroke-width="2" />
+  <line x1="3984" y1="960" x2="4752" y2="960" stroke="green" stroke-width="2" />
+  <line x1="3984" y1="1055" x2="3984" y2="960" stroke="red" stroke-width="2" />
+  <text x="4800" y="960" fill="black">sejít-v</text>
+  <line x1="4032" y1="1103" x2="4080" y2="1103" stroke="green" stroke-width="2" />
+  <line x1="4032" y1="1008" x2="4752" y2="1008" stroke="green" stroke-width="2" />
+  <line x1="4032" y1="1103" x2="4032" y2="1008" stroke="red" stroke-width="2" />
+  <text x="4800" y="1008" fill="black">obrátit-v</text>
+  <line x1="4080" y1="1151" x2="4128" y2="1151" stroke="green" stroke-width="2" />
+  <line x1="4080" y1="1056" x2="4752" y2="1056" stroke="green" stroke-width="2" />
+  <line x1="4080" y1="1151" x2="4080" y2="1056" stroke="red" stroke-width="2" />
+  <text x="4800" y="1056" fill="black">narazit-v</text>
+  <line x1="4128" y1="1199" x2="4176" y2="1199" stroke="green" stroke-width="2" />
+  <line x1="4128" y1="1104" x2="4752" y2="1104" stroke="green" stroke-width="2" />
+  <line x1="4128" y1="1199" x2="4128" y2="1104" stroke="red" stroke-width="2" />
+  <text x="4800" y="1104" fill="black">požádat-v</text>
+  <line x1="4176" y1="1247" x2="4224" y2="1247" stroke="green" stroke-width="2" />
+  <line x1="4176" y1="1152" x2="4752" y2="1152" stroke="green" stroke-width="2" />
+  <line x1="4176" y1="1247" x2="4176" y2="1152" stroke="red" stroke-width="2" />
+  <text x="4800" y="1152" fill="black">položit-v</text>
+  <line x1="4224" y1="1295" x2="4272" y2="1295" stroke="green" stroke-width="2" />
+  <line x1="4224" y1="1200" x2="4752" y2="1200" stroke="green" stroke-width="2" />
+  <line x1="4224" y1="1295" x2="4224" y2="1200" stroke="red" stroke-width="2" />
+  <text x="4800" y="1200" fill="black">vydávat-v</text>
+  <line x1="4272" y1="1343" x2="4320" y2="1343" stroke="green" stroke-width="2" />
+  <line x1="4272" y1="1248" x2="4752" y2="1248" stroke="green" stroke-width="2" />
+  <line x1="4272" y1="1343" x2="4272" y2="1248" stroke="red" stroke-width="2" />
+  <text x="4800" y="1248" fill="black">strávit-v</text>
+  <line x1="4320" y1="1391" x2="4368" y2="1391" stroke="green" stroke-width="2" />
+  <line x1="4320" y1="1296" x2="4752" y2="1296" stroke="green" stroke-width="2" />
+  <line x1="4320" y1="1391" x2="4320" y2="1296" stroke="red" stroke-width="2" />
+  <text x="4800" y="1296" fill="black">zajišťovat-v</text>
+  <line x1="4368" y1="1439" x2="4416" y2="1439" stroke="green" stroke-width="2" />
+  <line x1="4368" y1="1344" x2="4752" y2="1344" stroke="green" stroke-width="2" />
+  <line x1="4368" y1="1439" x2="4368" y2="1344" stroke="red" stroke-width="2" />
+  <text x="4800" y="1344" fill="black">klást-v</text>
+  <line x1="4416" y1="1487" x2="4464" y2="1487" stroke="green" stroke-width="2" />
+  <line x1="4416" y1="1392" x2="4752" y2="1392" stroke="green" stroke-width="2" />
+  <line x1="4416" y1="1487" x2="4416" y2="1392" stroke="red" stroke-width="2" />
+  <text x="4800" y="1392" fill="black">navrhnout-v</text>
+  <line x1="4464" y1="1534" x2="4512" y2="1534" stroke="green" stroke-width="2" />
+  <line x1="4464" y1="1440" x2="4752" y2="1440" stroke="green" stroke-width="2" />
+  <line x1="4464" y1="1534" x2="4464" y2="1440" stroke="red" stroke-width="2" />
+  <text x="4800" y="1440" fill="black">pořádat-v</text>
+  <line x1="4512" y1="1581" x2="4560" y2="1581" stroke="green" stroke-width="2" />
+  <line x1="4512" y1="1488" x2="4752" y2="1488" stroke="green" stroke-width="2" />
+  <line x1="4512" y1="1581" x2="4512" y2="1488" stroke="red" stroke-width="2" />
+  <text x="4800" y="1488" fill="black">vstoupit-v</text>
+  <line x1="4560" y1="1626" x2="4608" y2="1626" stroke="green" stroke-width="2" />
+  <line x1="4560" y1="1536" x2="4752" y2="1536" stroke="green" stroke-width="2" />
+  <line x1="4560" y1="1626" x2="4560" y2="1536" stroke="red" stroke-width="2" />
+  <text x="4800" y="1536" fill="black">obdržet-v</text>
+  <line x1="4608" y1="1668" x2="4656" y2="1668" stroke="green" stroke-width="2" />
+  <line x1="4608" y1="1584" x2="4752" y2="1584" stroke="green" stroke-width="2" />
+  <line x1="4608" y1="1668" x2="4608" y2="1584" stroke="red" stroke-width="2" />
+  <text x="4800" y="1584" fill="black">zaznamenat-v</text>
+  <line x1="4656" y1="1704" x2="4704" y2="1704" stroke="green" stroke-width="2" />
+  <line x1="4656" y1="1632" x2="4752" y2="1632" stroke="green" stroke-width="2" />
+  <line x1="4656" y1="1704" x2="4656" y2="1632" stroke="red" stroke-width="2" />
+  <text x="4800" y="1632" fill="black">předvést-v</text>
+  <line x1="4704" y1="1728" x2="4752" y2="1728" stroke="green" stroke-width="2" />
+  <line x1="4704" y1="1680" x2="4752" y2="1680" stroke="green" stroke-width="2" />
+  <line x1="4704" y1="1728" x2="4704" y2="1680" stroke="red" stroke-width="2" />
+  <text x="4800" y="1680" fill="black">nastavit-v</text>
+  <text x="4800" y="1728" fill="black">vyrobit-v</text>
+  <line x1="4656" y1="1848" x2="4704" y2="1848" stroke="green" stroke-width="2" />
+  <line x1="4656" y1="1776" x2="4752" y2="1776" stroke="green" stroke-width="2" />
+  <line x1="4656" y1="1848" x2="4656" y2="1776" stroke="red" stroke-width="2" />
+  <text x="4800" y="1776" fill="black">odehrát-v</text>
+  <line x1="4704" y1="1872" x2="4752" y2="1872" stroke="green" stroke-width="2" />
+  <line x1="4704" y1="1824" x2="4752" y2="1824" stroke="green" stroke-width="2" />
+  <line x1="4704" y1="1872" x2="4704" y2="1824" stroke="red" stroke-width="2" />
+  <text x="4800" y="1824" fill="black">zaměřit-v</text>
+  <text x="4800" y="1872" fill="black">vybavit-v</text>
+  <line x1="4656" y1="1992" x2="4704" y2="1992" stroke="green" stroke-width="2" />
+  <line x1="4656" y1="1920" x2="4752" y2="1920" stroke="green" stroke-width="2" />
+  <line x1="4656" y1="1992" x2="4656" y2="1920" stroke="red" stroke-width="2" />
+  <text x="4800" y="1920" fill="black">počkat-v</text>
+  <line x1="4704" y1="2016" x2="4752" y2="2016" stroke="green" stroke-width="2" />
+  <line x1="4704" y1="1968" x2="4752" y2="1968" stroke="green" stroke-width="2" />
+  <line x1="4704" y1="2016" x2="4704" y2="1968" stroke="red" stroke-width="2" />
+  <text x="4800" y="1968" fill="black">uvažovat-v</text>
+  <text x="4800" y="2016" fill="black">spolupracovat-v</text>
+  <line x1="2064" y1="3738" x2="2112" y2="3738" stroke="green" stroke-width="2" />
+  <line x1="2064" y1="2064" x2="4752" y2="2064" stroke="green" stroke-width="2" />
+  <line x1="2064" y1="3738" x2="2064" y2="2064" stroke="red" stroke-width="2" />
+  <text x="4800" y="2064" fill="black">vložit-v</text>
+  <line x1="2112" y1="4728" x2="4704" y2="4728" stroke="green" stroke-width="2" />
+  <line x1="2112" y1="2748" x2="2208" y2="2748" stroke="green" stroke-width="2" />
+  <line x1="2112" y1="4728" x2="2112" y2="2748" stroke="red" stroke-width="2" />
+  <line x1="2208" y1="3384" x2="2256" y2="3384" stroke="green" stroke-width="2" />
+  <line x1="2208" y1="2112" x2="4752" y2="2112" stroke="green" stroke-width="2" />
+  <line x1="2208" y1="3384" x2="2208" y2="2112" stroke="red" stroke-width="2" />
+  <text x="4800" y="2112" fill="black">bolet-v</text>
+  <line x1="2256" y1="4554" x2="4608" y2="4554" stroke="green" stroke-width="2" />
+  <line x1="2256" y1="2215" x2="2448" y2="2215" stroke="green" stroke-width="2" />
+  <line x1="2256" y1="4554" x2="2256" y2="2215" stroke="red" stroke-width="2" />
+  <line x1="2448" y1="2270" x2="2496" y2="2270" stroke="green" stroke-width="2" />
+  <line x1="2448" y1="2160" x2="4752" y2="2160" stroke="green" stroke-width="2" />
+  <line x1="2448" y1="2270" x2="2448" y2="2160" stroke="red" stroke-width="2" />
+  <text x="4800" y="2160" fill="black">lišit-v</text>
+  <line x1="2496" y1="2333" x2="2544" y2="2333" stroke="green" stroke-width="2" />
+  <line x1="2496" y1="2208" x2="4752" y2="2208" stroke="green" stroke-width="2" />
+  <line x1="2496" y1="2333" x2="2496" y2="2208" stroke="red" stroke-width="2" />
+  <text x="4800" y="2208" fill="black">dočkat-v</text>
+  <line x1="2544" y1="2411" x2="2592" y2="2411" stroke="green" stroke-width="2" />
+  <line x1="2544" y1="2256" x2="4752" y2="2256" stroke="green" stroke-width="2" />
+  <line x1="2544" y1="2411" x2="2544" y2="2256" stroke="red" stroke-width="2" />
+  <text x="4800" y="2256" fill="black">zmizet-v</text>
+  <line x1="2592" y1="2518" x2="2640" y2="2518" stroke="green" stroke-width="2" />
+  <line x1="2592" y1="2304" x2="4752" y2="2304" stroke="green" stroke-width="2" />
+  <line x1="2592" y1="2518" x2="2592" y2="2304" stroke="red" stroke-width="2" />
+  <text x="4800" y="2304" fill="black">zasloužit-v</text>
+  <line x1="2640" y1="2685" x2="2688" y2="2685" stroke="green" stroke-width="2" />
+  <line x1="2640" y1="2352" x2="4752" y2="2352" stroke="green" stroke-width="2" />
+  <line x1="2640" y1="2685" x2="2640" y2="2352" stroke="red" stroke-width="2" />
+  <text x="4800" y="2352" fill="black">zabít-v</text>
+  <line x1="2688" y1="2970" x2="2736" y2="2970" stroke="green" stroke-width="2" />
+  <line x1="2688" y1="2400" x2="4752" y2="2400" stroke="green" stroke-width="2" />
+  <line x1="2688" y1="2970" x2="2688" y2="2400" stroke="red" stroke-width="2" />
+  <text x="4800" y="2400" fill="black">smát-v</text>
+  <line x1="2736" y1="3492" x2="2784" y2="3492" stroke="green" stroke-width="2" />
+  <line x1="2736" y1="2448" x2="4752" y2="2448" stroke="green" stroke-width="2" />
+  <line x1="2736" y1="3492" x2="2736" y2="2448" stroke="red" stroke-width="2" />
+  <text x="4800" y="2448" fill="black">zažít-v</text>
+  <line x1="2784" y1="4440" x2="4704" y2="4440" stroke="green" stroke-width="2" />
+  <line x1="2784" y1="2544" x2="2880" y2="2544" stroke="green" stroke-width="2" />
+  <line x1="2784" y1="4440" x2="2784" y2="2544" stroke="red" stroke-width="2" />
+  <line x1="2880" y1="2592" x2="2928" y2="2592" stroke="green" stroke-width="2" />
+  <line x1="2880" y1="2496" x2="4752" y2="2496" stroke="green" stroke-width="2" />
+  <line x1="2880" y1="2592" x2="2880" y2="2496" stroke="red" stroke-width="2" />
+  <text x="4800" y="2496" fill="black">zrušit-v</text>
+  <line x1="2928" y1="2640" x2="2976" y2="2640" stroke="green" stroke-width="2" />
+  <line x1="2928" y1="2544" x2="4752" y2="2544" stroke="green" stroke-width="2" />
+  <line x1="2928" y1="2640" x2="2928" y2="2544" stroke="red" stroke-width="2" />
+  <text x="4800" y="2544" fill="black">odstranit-v</text>
+  <line x1="2976" y1="2688" x2="3024" y2="2688" stroke="green" stroke-width="2" />
+  <line x1="2976" y1="2592" x2="4752" y2="2592" stroke="green" stroke-width="2" />
+  <line x1="2976" y1="2688" x2="2976" y2="2592" stroke="red" stroke-width="2" />
+  <text x="4800" y="2592" fill="black">zbavit-v</text>
+  <line x1="3024" y1="2736" x2="3072" y2="2736" stroke="green" stroke-width="2" />
+  <line x1="3024" y1="2640" x2="4752" y2="2640" stroke="green" stroke-width="2" />
+  <line x1="3024" y1="2736" x2="3024" y2="2640" stroke="red" stroke-width="2" />
+  <text x="4800" y="2640" fill="black">opustit-v</text>
+  <line x1="3072" y1="2784" x2="3120" y2="2784" stroke="green" stroke-width="2" />
+  <line x1="3072" y1="2688" x2="4752" y2="2688" stroke="green" stroke-width="2" />
+  <line x1="3072" y1="2784" x2="3072" y2="2688" stroke="red" stroke-width="2" />
+  <text x="4800" y="2688" fill="black">ukončit-v</text>
+  <line x1="3120" y1="2833" x2="3168" y2="2833" stroke="green" stroke-width="2" />
+  <line x1="3120" y1="2736" x2="4752" y2="2736" stroke="green" stroke-width="2" />
+  <line x1="3120" y1="2833" x2="3120" y2="2736" stroke="red" stroke-width="2" />
+  <text x="4800" y="2736" fill="black">splnit-v</text>
+  <line x1="3168" y1="2882" x2="3216" y2="2882" stroke="green" stroke-width="2" />
+  <line x1="3168" y1="2784" x2="4752" y2="2784" stroke="green" stroke-width="2" />
+  <line x1="3168" y1="2882" x2="3168" y2="2784" stroke="red" stroke-width="2" />
+  <text x="4800" y="2784" fill="black">ovlivnit-v</text>
+  <line x1="3216" y1="2932" x2="3264" y2="2932" stroke="green" stroke-width="2" />
+  <line x1="3216" y1="2832" x2="4752" y2="2832" stroke="green" stroke-width="2" />
+  <line x1="3216" y1="2932" x2="3216" y2="2832" stroke="red" stroke-width="2" />
+  <text x="4800" y="2832" fill="black">upravit-v</text>
+  <line x1="3264" y1="2984" x2="3312" y2="2984" stroke="green" stroke-width="2" />
+  <line x1="3264" y1="2880" x2="4752" y2="2880" stroke="green" stroke-width="2" />
+  <line x1="3264" y1="2984" x2="3264" y2="2880" stroke="red" stroke-width="2" />
+  <text x="4800" y="2880" fill="black">podepsat-v</text>
+  <line x1="3312" y1="3040" x2="3360" y2="3040" stroke="green" stroke-width="2" />
+  <line x1="3312" y1="2928" x2="4752" y2="2928" stroke="green" stroke-width="2" />
+  <line x1="3312" y1="3040" x2="3312" y2="2928" stroke="red" stroke-width="2" />
+  <text x="4800" y="2928" fill="black">uzavřít-v</text>
+  <line x1="3360" y1="3105" x2="3408" y2="3105" stroke="green" stroke-width="2" />
+  <line x1="3360" y1="2976" x2="4752" y2="2976" stroke="green" stroke-width="2" />
+  <line x1="3360" y1="3105" x2="3360" y2="2976" stroke="red" stroke-width="2" />
+  <text x="4800" y="2976" fill="black">podpořit-v</text>
+  <line x1="3408" y1="3186" x2="3456" y2="3186" stroke="green" stroke-width="2" />
+  <line x1="3408" y1="3024" x2="4752" y2="3024" stroke="green" stroke-width="2" />
+  <line x1="3408" y1="3186" x2="3408" y2="3024" stroke="red" stroke-width="2" />
+  <text x="4800" y="3024" fill="black">hrozit-v</text>
+  <line x1="3456" y1="3264" x2="3600" y2="3264" stroke="green" stroke-width="2" />
+  <line x1="3456" y1="3108" x2="4656" y2="3108" stroke="green" stroke-width="2" />
+  <line x1="3456" y1="3264" x2="3456" y2="3108" stroke="red" stroke-width="2" />
+  <line x1="4656" y1="3144" x2="4704" y2="3144" stroke="green" stroke-width="2" />
+  <line x1="4656" y1="3072" x2="4752" y2="3072" stroke="green" stroke-width="2" />
+  <line x1="4656" y1="3144" x2="4656" y2="3072" stroke="red" stroke-width="2" />
+  <text x="4800" y="3072" fill="black">trpět-v</text>
+  <line x1="4704" y1="3168" x2="4752" y2="3168" stroke="green" stroke-width="2" />
+  <line x1="4704" y1="3120" x2="4752" y2="3120" stroke="green" stroke-width="2" />
+  <line x1="4704" y1="3168" x2="4704" y2="3120" stroke="red" stroke-width="2" />
+  <text x="4800" y="3120" fill="black">poslouchat-v</text>
+  <text x="4800" y="3168" fill="black">pít-v</text>
+  <line x1="3600" y1="3312" x2="3648" y2="3312" stroke="green" stroke-width="2" />
+  <line x1="3600" y1="3216" x2="4752" y2="3216" stroke="green" stroke-width="2" />
+  <line x1="3600" y1="3312" x2="3600" y2="3216" stroke="red" stroke-width="2" />
+  <text x="4800" y="3216" fill="black">padnout-v</text>
+  <line x1="3648" y1="3361" x2="3696" y2="3361" stroke="green" stroke-width="2" />
+  <line x1="3648" y1="3264" x2="4752" y2="3264" stroke="green" stroke-width="2" />
+  <line x1="3648" y1="3361" x2="3648" y2="3264" stroke="red" stroke-width="2" />
+  <text x="4800" y="3264" fill="black">přejít-v</text>
+  <line x1="3696" y1="3410" x2="3744" y2="3410" stroke="green" stroke-width="2" />
+  <line x1="3696" y1="3312" x2="4752" y2="3312" stroke="green" stroke-width="2" />
+  <line x1="3696" y1="3410" x2="3696" y2="3312" stroke="red" stroke-width="2" />
+  <text x="4800" y="3312" fill="black">žádat-v</text>
+  <line x1="3744" y1="3460" x2="3792" y2="3460" stroke="green" stroke-width="2" />
+  <line x1="3744" y1="3360" x2="4752" y2="3360" stroke="green" stroke-width="2" />
+  <line x1="3744" y1="3460" x2="3744" y2="3360" stroke="red" stroke-width="2" />
+  <text x="4800" y="3360" fill="black">studovat-v</text>
+  <line x1="3792" y1="3513" x2="3840" y2="3513" stroke="green" stroke-width="2" />
+  <line x1="3792" y1="3408" x2="4752" y2="3408" stroke="green" stroke-width="2" />
+  <line x1="3792" y1="3513" x2="3792" y2="3408" stroke="red" stroke-width="2" />
+  <text x="4800" y="3408" fill="black">volat-v</text>
+  <line x1="3840" y1="3570" x2="3888" y2="3570" stroke="green" stroke-width="2" />
+  <line x1="3840" y1="3456" x2="4752" y2="3456" stroke="green" stroke-width="2" />
+  <line x1="3840" y1="3570" x2="3840" y2="3456" stroke="red" stroke-width="2" />
+  <text x="4800" y="3456" fill="black">kupovat-v</text>
+  <line x1="3888" y1="3636" x2="3936" y2="3636" stroke="green" stroke-width="2" />
+  <line x1="3888" y1="3504" x2="4752" y2="3504" stroke="green" stroke-width="2" />
+  <line x1="3888" y1="3636" x2="3888" y2="3504" stroke="red" stroke-width="2" />
+  <text x="4800" y="3504" fill="black">volit-v</text>
+  <line x1="3936" y1="3696" x2="4032" y2="3696" stroke="green" stroke-width="2" />
+  <line x1="3936" y1="3576" x2="4704" y2="3576" stroke="green" stroke-width="2" />
+  <line x1="3936" y1="3696" x2="3936" y2="3576" stroke="red" stroke-width="2" />
+  <line x1="4704" y1="3600" x2="4752" y2="3600" stroke="green" stroke-width="2" />
+  <line x1="4704" y1="3552" x2="4752" y2="3552" stroke="green" stroke-width="2" />
+  <line x1="4704" y1="3600" x2="4704" y2="3552" stroke="red" stroke-width="2" />
+  <text x="4800" y="3552" fill="black">vybírat-v</text>
+  <text x="4800" y="3600" fill="black">pozorovat-v</text>
+  <line x1="4032" y1="3745" x2="4080" y2="3745" stroke="green" stroke-width="2" />
+  <line x1="4032" y1="3648" x2="4752" y2="3648" stroke="green" stroke-width="2" />
+  <line x1="4032" y1="3745" x2="4032" y2="3648" stroke="red" stroke-width="2" />
+  <text x="4800" y="3648" fill="black">popsat-v</text>
+  <line x1="4080" y1="3794" x2="4128" y2="3794" stroke="green" stroke-width="2" />
+  <line x1="4080" y1="3696" x2="4752" y2="3696" stroke="green" stroke-width="2" />
+  <line x1="4080" y1="3794" x2="4080" y2="3696" stroke="red" stroke-width="2" />
+  <text x="4800" y="3696" fill="black">sehnat-v</text>
+  <line x1="4128" y1="3844" x2="4176" y2="3844" stroke="green" stroke-width="2" />
+  <line x1="4128" y1="3744" x2="4752" y2="3744" stroke="green" stroke-width="2" />
+  <line x1="4128" y1="3844" x2="4128" y2="3744" stroke="red" stroke-width="2" />
+  <text x="4800" y="3744" fill="black">stihnout-v</text>
+  <line x1="4176" y1="3896" x2="4224" y2="3896" stroke="green" stroke-width="2" />
+  <line x1="4176" y1="3792" x2="4752" y2="3792" stroke="green" stroke-width="2" />
+  <line x1="4176" y1="3896" x2="4176" y2="3792" stroke="red" stroke-width="2" />
+  <text x="4800" y="3792" fill="black">nosit-v</text>
+  <line x1="4224" y1="3953" x2="4272" y2="3953" stroke="green" stroke-width="2" />
+  <line x1="4224" y1="3840" x2="4752" y2="3840" stroke="green" stroke-width="2" />
+  <line x1="4224" y1="3953" x2="4224" y2="3840" stroke="red" stroke-width="2" />
+  <text x="4800" y="3840" fill="black">stavět-v</text>
+  <line x1="4272" y1="4019" x2="4320" y2="4019" stroke="green" stroke-width="2" />
+  <line x1="4272" y1="3888" x2="4752" y2="3888" stroke="green" stroke-width="2" />
+  <line x1="4272" y1="4019" x2="4272" y2="3888" stroke="red" stroke-width="2" />
+  <text x="4800" y="3888" fill="black">rozhodovat-v</text>
+  <line x1="4320" y1="4079" x2="4416" y2="4079" stroke="green" stroke-width="2" />
+  <line x1="4320" y1="3960" x2="4704" y2="3960" stroke="green" stroke-width="2" />
+  <line x1="4320" y1="4079" x2="4320" y2="3960" stroke="red" stroke-width="2" />
+  <line x1="4704" y1="3984" x2="4752" y2="3984" stroke="green" stroke-width="2" />
+  <line x1="4704" y1="3936" x2="4752" y2="3936" stroke="green" stroke-width="2" />
+  <line x1="4704" y1="3984" x2="4704" y2="3936" stroke="red" stroke-width="2" />
+  <text x="4800" y="3936" fill="black">zvyšovat-v</text>
+  <text x="4800" y="3984" fill="black">chránit-v</text>
+  <line x1="4416" y1="4127" x2="4464" y2="4127" stroke="green" stroke-width="2" />
+  <line x1="4416" y1="4032" x2="4752" y2="4032" stroke="green" stroke-width="2" />
+  <line x1="4416" y1="4127" x2="4416" y2="4032" stroke="red" stroke-width="2" />
+  <text x="4800" y="4032" fill="black">stáhnout-v</text>
+  <line x1="4464" y1="4174" x2="4512" y2="4174" stroke="green" stroke-width="2" />
+  <line x1="4464" y1="4080" x2="4752" y2="4080" stroke="green" stroke-width="2" />
+  <line x1="4464" y1="4174" x2="4464" y2="4080" stroke="red" stroke-width="2" />
+  <text x="4800" y="4080" fill="black">zahrát-v</text>
+  <line x1="4512" y1="4221" x2="4560" y2="4221" stroke="green" stroke-width="2" />
+  <line x1="4512" y1="4128" x2="4752" y2="4128" stroke="green" stroke-width="2" />
+  <line x1="4512" y1="4221" x2="4512" y2="4128" stroke="red" stroke-width="2" />
+  <text x="4800" y="4128" fill="black">pořídit-v</text>
+  <line x1="4560" y1="4266" x2="4608" y2="4266" stroke="green" stroke-width="2" />
+  <line x1="4560" y1="4176" x2="4752" y2="4176" stroke="green" stroke-width="2" />
+  <line x1="4560" y1="4266" x2="4560" y2="4176" stroke="red" stroke-width="2" />
+  <text x="4800" y="4176" fill="black">projevit-v</text>
+  <line x1="4608" y1="4308" x2="4656" y2="4308" stroke="green" stroke-width="2" />
+  <line x1="4608" y1="4224" x2="4752" y2="4224" stroke="green" stroke-width="2" />
+  <line x1="4608" y1="4308" x2="4608" y2="4224" stroke="red" stroke-width="2" />
+  <text x="4800" y="4224" fill="black">připojit-v</text>
+  <line x1="4656" y1="4344" x2="4704" y2="4344" stroke="green" stroke-width="2" />
+  <line x1="4656" y1="4272" x2="4752" y2="4272" stroke="green" stroke-width="2" />
+  <line x1="4656" y1="4344" x2="4656" y2="4272" stroke="red" stroke-width="2" />
+  <text x="4800" y="4272" fill="black">rozšířit-v</text>
+  <line x1="4704" y1="4368" x2="4752" y2="4368" stroke="green" stroke-width="2" />
+  <line x1="4704" y1="4320" x2="4752" y2="4320" stroke="green" stroke-width="2" />
+  <line x1="4704" y1="4368" x2="4704" y2="4320" stroke="red" stroke-width="2" />
+  <text x="4800" y="4320" fill="black">spojit-v</text>
+  <text x="4800" y="4368" fill="black">zařadit-v</text>
+  <line x1="4704" y1="4464" x2="4752" y2="4464" stroke="green" stroke-width="2" />
+  <line x1="4704" y1="4416" x2="4752" y2="4416" stroke="green" stroke-width="2" />
+  <line x1="4704" y1="4464" x2="4704" y2="4416" stroke="red" stroke-width="2" />
+  <text x="4800" y="4416" fill="black">opakovat-v</text>
+  <text x="4800" y="4464" fill="black">odmítnout-v</text>
+  <line x1="4608" y1="4596" x2="4656" y2="4596" stroke="green" stroke-width="2" />
+  <line x1="4608" y1="4512" x2="4752" y2="4512" stroke="green" stroke-width="2" />
+  <line x1="4608" y1="4596" x2="4608" y2="4512" stroke="red" stroke-width="2" />
+  <text x="4800" y="4512" fill="black">nahradit-v</text>
+  <line x1="4656" y1="4632" x2="4704" y2="4632" stroke="green" stroke-width="2" />
+  <line x1="4656" y1="4560" x2="4752" y2="4560" stroke="green" stroke-width="2" />
+  <line x1="4656" y1="4632" x2="4656" y2="4560" stroke="red" stroke-width="2" />
+  <text x="4800" y="4560" fill="black">topit-v</text>
+  <line x1="4704" y1="4656" x2="4752" y2="4656" stroke="green" stroke-width="2" />
+  <line x1="4704" y1="4608" x2="4752" y2="4608" stroke="green" stroke-width="2" />
+  <line x1="4704" y1="4656" x2="4704" y2="4608" stroke="red" stroke-width="2" />
+  <text x="4800" y="4608" fill="black">lepšit-v</text>
+  <text x="4800" y="4656" fill="black">vysvětlovat-v</text>
+  <line x1="4704" y1="4752" x2="4752" y2="4752" stroke="green" stroke-width="2" />
+  <line x1="4704" y1="4704" x2="4752" y2="4704" stroke="green" stroke-width="2" />
+  <line x1="4704" y1="4752" x2="4704" y2="4704" stroke="red" stroke-width="2" />
+  <text x="4800" y="4704" fill="black">zbývat-v</text>
+  <text x="4800" y="4752" fill="black">vzpomínat-v</text>
+</svg>
